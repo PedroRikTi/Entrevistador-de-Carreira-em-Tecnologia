@@ -1,0 +1,133 @@
+🧩 VISÃO DO DIA A DIA
+Como é o trabalho de um Engenheiro de IA:
+
+Desenvolver e treinar modelos de machine learning
+
+Implementar soluções de inteligência artificial em sistemas e produtos
+
+Trabalhar com grandes volumes de dados para extrair padrões
+
+Colaborar com equipes de desenvolvimento e negócios
+
+Pesquisar e aplicar novas tecnologias de IA
+
+🧠 MAPA DE SKILLS
+CORE SKILLS (essenciais):
+
+Programação (Python, JavaScript)
+
+Machine Learning e Deep Learning
+
+Matemática aplicada (álgebra linear, estatística, cálculo)
+
+NICE-TO-HAVE (complementares):
+
+Processamento de linguagem natural (NLP)
+
+Cloud Computing (AWS, Azure, GCP)
+
+FERRAMENTAS E TECNOLOGIAS:
+
+TensorFlow / PyTorch
+
+Scikit-learn
+
+Jupyter Notebook
+
+📅 ROADMAP DE 90 DIAS
+ADAPTADO PARA: 60h/semana (intensivo)
+
+MÊS 1 - FUNDAMENTOS
+SEMANA 1-2:
+
+Revisar Python avançado (estruturas, OOP, bibliotecas)
+
+Fundamentos de estatística aplicada à IA
+
+SEMANA 3-4:
+
+Introdução a Machine Learning (regressão, classificação)
+
+Prática com Scikit-learn em datasets simples
+
+MÊS 2 - PRÁTICA
+SEMANA 5-6:
+
+Redes neurais com TensorFlow/PyTorch
+
+Implementar modelos básicos de Deep Learning
+
+SEMANA 7-8:
+
+NLP: análise de sentimentos e classificação de texto
+
+Projeto prático com dados reais (ex: reviews de produtos)
+
+MÊS 3 - PORTFÓLIO E PREPARAÇÃO
+SEMANA 9-10:
+
+Criar projeto de IA aplicado a negócios (ex: previsão de demanda)
+
+Documentar código e resultados
+
+SEMANA 11-12:
+
+Preparação para entrevistas técnicas
+
+Publicar projeto no GitHub e LinkedIn
+
+🚀 PROJETO DE PORTFÓLIO
+PROJETO: Previsão de Vendas com IA
+
+O QUE FAZER:  
+Criar um modelo de machine learning que analise dados históricos de vendas e preveja demanda futura.
+
+ENTREGÁVEIS:
+
+Dataset tratado e limpo
+
+Modelo treinado e validado
+
+Dashboard simples com resultados
+
+CRITÉRIOS DE ACEITAÇÃO:
+
+Modelo com acurácia mínima de 80%
+
+Código bem estruturado e comentado
+
+Documentação clara do processo
+
+DICA: Use dados públicos de vendas (ex: Kaggle) e foque em explicar o raciocínio por trás do modelo.
+
+💬 ROTEIRO DE ENTREVISTAS
+PERGUNTA 1: Qual linguagem você usa para IA?
+COMO RESPONDER: "Uso principalmente Python, por sua ampla biblioteca de IA e ML, como TensorFlow e Scikit-learn."
+
+PERGUNTA 2: Explique um projeto que você fez.
+COMO RESPONDER: Estruture em: problema → solução → resultado → impacto.
+
+PERGUNTA 3: O que é overfitting?
+COMO RESPONDER: "É quando o modelo aprende demais os dados de treino e perde capacidade de generalização. Resolvo com regularização e validação cruzada."
+
+PERGUNTA 4: Qual a diferença entre supervised e unsupervised learning?
+COMO RESPONDER: "Supervised usa dados rotulados, unsupervised busca padrões sem rótulos."
+
+PERGUNTA 5: Como você se mantém atualizado em IA?
+COMO RESPONDER: "Participo de comunidades, sigo papers e faço cursos online como DIO e Coursera."
+
+🎓 TRILHA DIO RECOMENDADA
+TRILHA: Bootcamp Santander 2024 - Ciência de Dados com Python
+
+POR QUE ESSA TRILHA:  
+Ela conecta fundamentos de programação, dados e machine learning, preparando para projetos práticos de IA.
+
+PRÓXIMOS PASSOS:
+
+Acesse dio.me
+
+Busque por "Bootcamp Santander 2024 - Ciência de Dados com Python"
+
+Inscreva-se gratuitamente
+
+Siga o cronograma junto com este roadmap
